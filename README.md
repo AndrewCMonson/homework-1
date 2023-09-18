@@ -4,6 +4,8 @@
 
 The purpose of this challenge is to refactor existing code to improve accessibility.
 
+The corrected code and comments can be found in index.html
+
 ### User Story
 ```
 AS A marketing agency
