@@ -33,4 +33,3 @@ THEN I find a concise, descriptive title
 
 After reviewing the existing code, I corrected all issues and pushed them to the repository *homework-1* and published on GitHub Pages
 
-### 
